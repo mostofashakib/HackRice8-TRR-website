@@ -4,7 +4,6 @@ var express        = require("express"),
     cookieParser   = require("cookie-parser"),
     methodOverride = require("method-override");
     
-
 app.use(bodyParser.urlencoded({extended: true}));
 app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"));
