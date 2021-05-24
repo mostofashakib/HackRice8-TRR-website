@@ -1,5 +1,5 @@
 # HackRice-8-Team-Red-Raider-Website
-A website created at HackRice8 for Project Portal that supports different compatibility and mobile usability.
+• A website for the project-portal project which is built with all the latest technologies. The website supports different browser compatibility and mobile usability while keeping in mind of a surreal UX.
 
 • FrontEnd: HTML5, CSS3, JavaScript , jQuery, Bootstrap
 
